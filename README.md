@@ -1,4 +1,4 @@
-# Stock Data Dashboard
+# Stock Data Dashboard/ FinnData
 
 This project is a stock dashboard app that uses the [Finnhub API](https://finnhub.io/)
 
